@@ -1,4 +1,4 @@
 # hello! 🌱
-currently: stanford EE + CS, hardware engineering intern @ nvidia
+currently: stanford ee + cs, hardware engineering intern @ nvidia
 
-previously: embedded systems intern @ Vecow, dry lab @ Stanford iGEM (gold medal)
+previously: embedded systems intern @ vecow, dry lab @ stanford iGEM (gold medal)
